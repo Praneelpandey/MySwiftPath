@@ -2,7 +2,7 @@
 - Data Types
 - Variables and constants
 - Operators 
-- Conditional
+- Conditionals
 - Loops
 - Functions
 
